@@ -1,2 +1,3 @@
 # new-demo
-Demo for Git &amp; Github class
+Demo for Git &amp; Github class.
+
